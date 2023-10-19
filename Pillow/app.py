@@ -6,8 +6,8 @@ import asyncio
 import json
 
 # Replace 'YOUR_BOT_TOKEN' with your actual bot token
-TOKEN = '6417932785:AAFxaUql6kYeKK3A4HH3U2GAIGS2GotOsrk'
-chat_id = '1669992876'
+TOKEN = 'REPLACE YOUR BOT_TOKEN'
+chat_id = 'ENTER YOUR CHAT ID'
 
 # Initialize the bot
 bot = telegram.Bot(token=TOKEN)
